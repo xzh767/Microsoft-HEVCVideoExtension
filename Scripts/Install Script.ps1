@@ -22,6 +22,8 @@ if ([Environment]::Is64bitOperatingSystem)
     cls
     echo "Start Install"
     Add-AppxPackage "./Microsoft.HEVCVideoExtension_x64.appx"
+    cls
+	echo "Success"
     pause 
 }
 else 
@@ -33,5 +35,8 @@ else
     echo "Download Successful"
     cls
     Add-AppxPackage "./Microsoft.HEVCVideoExtension_x86.appx"
+    cls
+	echo "Success"
     Pause
+
 }
