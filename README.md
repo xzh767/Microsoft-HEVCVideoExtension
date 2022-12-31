@@ -62,7 +62,7 @@
 
 ###  5.联系我们：
 
-E-mail:[xlz767@126.com](xlz767@126.com)
+E-mail:[xlz767@126.com](mailto://xlz767@126.com)
 
 Website:[xlz767](www.xlz767.cf)
 
