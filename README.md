@@ -42,13 +42,15 @@
 
 ​    我们的github存储库上有这些文件：
 
-  .vscode文件夹：开发过程中储存一些配置，无用
+​    .vscode文件夹：开发过程中储存一些配置，无用
 
-  Extension Pack文件夹：直接的APPX包，注意看清楚x64/x86/arm进行下载安装
+​    Extension Pack文件夹：直接的APPX包，注意看清楚x64/x86/arm进行下载安装
 
-   Install Script文件夹：内含一个ps1脚本，全平台自动安装脚本（ARM机器不可用！！！）
+​     Install Script文件夹：内含一个ps1脚本，全平台自动安装脚本（ARM机器不可用！！！）
 
-   README.md：本文件
+​    TestFiles文件夹：HEVC的测试文件
+
+​    README.md：本文件
 
 ​    LICENSE：开源协议
 
@@ -67,10 +69,9 @@ E-mail:[xlz767@126.com](mailto://xlz767@126.com)
 Website:[xlz767](www.xlz767.cf)
 
 Github:[xzh767](github.com/xzh767)
- 
+
  ## 最后插一句：
  ### 欢迎大家积极提交PR，遇到问题及时反馈！
-
 
 
 
