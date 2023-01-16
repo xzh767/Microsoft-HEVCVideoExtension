@@ -1,5 +1,8 @@
 # Microsoft-HEVCVideoExtension
 
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/xzh767/Microsoft-HEVCVideoExtension)](https://github.com/xzh767/Microsoft-HEVCVideoExtension/commits/master)
+[![GitHub Releases](https://img.shields.io/github/downloads/xzh767/Microsoft-HEVCVideoExtension/total?logo=github)](https://github.com/xzh767/Microsoft-HEVCVideoExtension/releases)
+
 ### 	目录
 
 ​	  |1.什么是HEVC(h.256)
